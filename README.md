@@ -31,7 +31,7 @@ C:\kafka_2.13-3.6.1>start .\kafka-console-consumer.bat --bootstrap-server localh
 
 ![image](https://github.com/hayatelallaouy01/Emsi-project-kafka/assets/123452386/4c715a5b-42e4-4999-bd7f-0b68c5feea75)
 
-![image](https://github.com/hayatelallaouy01/Emsi-project-kafka/assets/123452386/4d832e76-6239-4c8f-b890-86efb4e7fc8b)
+
 
 ![image](https://github.com/hayatelallaouy01/Emsi-project-kafka/assets/123452386/8165baf4-2016-44a8-afa3-512f346b4918)
 
